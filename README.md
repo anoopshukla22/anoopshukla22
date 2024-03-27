@@ -15,7 +15,7 @@ I'm a passionate developer from [Prayagraj]. I love coding in [C++ ] and explori
 - Docker
 
 ## 📫 Connect with me
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yourusername)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/yourusername](https://www.linkedin.com/in/anoop-shukla-21184b22a/))
 [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/yourusername)
 
 ## 📈 GitHub Stats
